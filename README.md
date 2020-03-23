@@ -4,6 +4,7 @@
 
 # Windows 10: Double click to unpack zip and rar files in windows:
 
+![Image description](feature.gif)
 
 Features:
 * Double click to unzip, rar files and zip files. No stupid dialogs.
