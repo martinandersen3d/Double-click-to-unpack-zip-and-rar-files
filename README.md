@@ -4,8 +4,10 @@
 
 # Windows 10: Double click to unpack zip and rar files in windows:
 
+Double click to extract files:
 ![Image description](feature.gif)
 
+Multiselect and press ENTER key, to extract all:
 ![Image description](feature2.gif)
 
 Features:
