@@ -6,6 +6,8 @@
 
 ![Image description](feature.gif)
 
+![Image description](feature2.gif)
+
 Features:
 * Double click to unzip, rar files and zip files. No stupid dialogs.
 * Multi select files, press enter an they all unzip into there seperate directory
