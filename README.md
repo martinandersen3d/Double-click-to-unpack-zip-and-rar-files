@@ -24,6 +24,7 @@ Install:
 * https://www.7-zip.org/
 
 How to Associate zip and rar files with   "unzip.exe":
+
 ![Image description](__1.png)
 
 
