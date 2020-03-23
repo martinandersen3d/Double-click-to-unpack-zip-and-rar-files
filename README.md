@@ -5,7 +5,15 @@ Features:
 * Multi select files, press enter an they all unzip into there seperate directory
 
 Install:
-* Install z-zip to exact: C:\Program Files\7-Zip\7z.exe
-* Follow the screenshots:
+1. Download the "unzip.exe" from here, put it whereever you want.
+2. Install the program z-zip to exactly this location: C:\Program Files\7-Zip\7z.exe
+3. Follow the screenshots, do it both for zip and rar:
 
 
+![Image description](__1.png)
+
+
+![Image description](__2.png)
+
+
+![Image description](__3.png)
